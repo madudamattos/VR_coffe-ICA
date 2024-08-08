@@ -1,0 +1,8 @@
+Model Information:
+* title:	Mug
+* source:	https://sketchfab.com/3d-models/mug-63025070788b4cffb4ad93b6b19b7fb0
+* author:	roabon (https://sketchfab.com/roabon)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
